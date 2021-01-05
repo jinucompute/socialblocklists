@@ -5,24 +5,6 @@
 # Project home page: https://github.com/d43m0nhLInt3r/socialblocklists
 # ===============================================================
 
-youtube-ui.l.google.com
-googlevideo.com
-youtu.be
-youtube-nocookie.com
-youtube.com
-youtube.googleapis.com
-youtubei.googleapis.com
-ytimg.com
-ytimg.l.google.com
-7.googlevideo.com
-clients6.google.com
-e.googlevideo.com
-i1.ytimg.com
-k.googlevideo.com
-s.googlevideo.com
-youtube-nocookie.com
-yt.moatads.com
-z.googlevideo.com
 ssl-google-analytics.l.google.com
 r1---sn-25ge7ns7.googlevideo.com
 r1---sn-a5mekned.googlevideo.com
